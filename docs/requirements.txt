@@ -30,7 +30,7 @@ requests==2.27.1
     # via sphinx
 snowballstemmer==2.2.0
     # via sphinx
-sphinx==4.4.0
+sphinx==4.2.0
     # via -r docs.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
@@ -50,3 +50,4 @@ urllib3==1.26.9
     # via requests
 zipp==3.8.0
     # via importlib-metadata
+myst_parser
